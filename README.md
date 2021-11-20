@@ -30,11 +30,9 @@
 - python3.8
 
 
-- torch1.8.1+cu11.1（相关环境可在
+- torch1.8.1+cu11.1（环境可以在我的YOLO3项目获得）
 
-  [我的YOLO3项目中获得]: https://github.com/Heiseweiye/YOLOV3
-  
-  
+  []: https://github.com/Heiseweiye/YOLOV3	"YOLO3"
 
 
 - transformers
