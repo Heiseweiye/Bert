@@ -30,8 +30,10 @@
 - python3.8
 
 
-- torch1.8.1+cu11.1（相关环境可在[我的YOLO3项目中获得]: https://github.com/Heiseweiye/YOLOV3）
+- torch1.8.1+cu11.1（相关环境可在
 
+  [我的YOLO3项目中获得]: https://github.com/Heiseweiye/YOLOV3
+  
   
 
 
