@@ -30,7 +30,7 @@
 - python3.8
 
 
-- torch1.8.1+cu11.1（相关环境可在https://github.com/Heiseweiye/YOLOV3获得）
+- torch1.8.1+cu11.1（相关环境可在https://github.com/Heiseweiye/YOLOV3\获得）
 
 
 - transformers
