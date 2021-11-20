@@ -27,11 +27,15 @@
 
 ### 依赖包
 
-python3.8
+- python3.8
 
-torch1.8.1+cu11.1（相关环境可在https://github.com/Heiseweiye/YOLOV3获得）
 
-transformers
+- torch1.8.1+cu11.1（相关环境可在https://github.com/Heiseweiye/YOLOV3获得）
+
+
+- transformers
+- 其他一些包查看requirements.txt，可以从代码引入的模块进行相应的包的安装。
+- 下面只列出来比较重要的包的安装
 
 ```shell
 conda create -n 环境名 python==3.8
@@ -124,6 +128,3 @@ CUDA_VISIBLE_DEVICES=0 python model_load.py
 BERT视频：https://youtu.be/UYPa347-DdE
 
 BERT实操：https://leemeng.tw/attack_on_bert_transfer_learning_in_nlp.html
-
-
-

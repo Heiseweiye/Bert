@@ -1,0 +1,58 @@
+_libgcc_mutex             0.1                        main    defaults
+blas                      1.0                         mkl    defaults
+boto3                     1.18.21            pyhd3eb1b0_0    defaults
+botocore                  1.21.41            pyhd3eb1b0_1    defaults
+bottleneck                1.3.2            py38heb32a55_1    defaults
+brotlipy                  0.7.0           py38h27cfd23_1003    defaults
+ca-certificates           2021.10.26           h06a4308_2    defaults
+certifi                   2021.10.8        py38h06a4308_0    defaults
+cffi                      1.15.0           py38h7f8727e_0    defaults
+charset-normalizer        2.0.4              pyhd3eb1b0_0    defaults
+click                     8.0.3              pyhd3eb1b0_0    defaults
+cryptography              35.0.0           py38hd23ed53_0    defaults
+idna                      3.2                pyhd3eb1b0_0    defaults
+intel-openmp              2020.2                      254    defaults
+jmespath                  0.10.0             pyhd3eb1b0_0    defaults
+joblib                    1.1.0              pyhd3eb1b0_0    defaults
+libedit                   3.1.20210910         h7f8727e_0    defaults
+libffi                    3.2.1             hf484d3e_1007    defaults
+libgcc-ng                 9.1.0                hdf63c60_0    defaults
+libstdcxx-ng              9.1.0                hdf63c60_0    defaults
+mkl                       2020.2                      256    defaults
+mkl-service               2.3.0            py38he904b0f_0    defaults
+mkl_fft                   1.3.0            py38h54f3939_0    defaults
+mkl_random                1.1.1            py38h0573a6f_0    defaults
+ncurses                   6.3                  h7f8727e_2    defaults
+numexpr                   2.7.3            py38hb2eb853_0    defaults
+numpy                     1.21.4                    <pip>
+numpy                     1.19.2           py38h54aff64_0    defaults
+numpy-base                1.19.2           py38hfa32c7d_0    defaults
+openssl                   1.1.1l               h7f8727e_0    defaults
+pandas                    1.3.4            py38h8c16a72_0    defaults
+Pillow                    8.4.0                     <pip>
+pip                       21.2.4           py38h06a4308_0    defaults
+pycparser                 2.21               pyhd3eb1b0_0    defaults
+pyopenssl                 21.0.0             pyhd3eb1b0_1    defaults
+PySnooper                 1.0.0                     <pip>
+pysocks                   1.7.1            py38h06a4308_0    defaults
+python                    3.8.0                h0371630_2    defaults
+python-dateutil           2.8.2              pyhd3eb1b0_0    defaults
+pytz                      2021.3             pyhd3eb1b0_0    defaults
+readline                  7.0                  h7b6447c_5    defaults
+regex                     2021.8.3         py38h7f8727e_0    defaults
+requests                  2.26.0             pyhd3eb1b0_0    defaults
+s3transfer                0.5.0              pyhd3eb1b0_0    defaults
+sacremoses                0.0.43             pyhd3eb1b0_0    defaults
+setuptools                58.0.4           py38h06a4308_0    defaults
+six                       1.16.0             pyhd3eb1b0_0    defaults
+sqlite                    3.33.0               h62c20be_0    defaults
+tk                        8.6.11               h1ccaba5_0    defaults
+torch                     1.8.1+cu111               <pip>
+torchvision               0.9.1+cu111               <pip>
+tqdm                      4.62.3             pyhd3eb1b0_1    defaults
+transformers              2.1.1              pyhd3eb1b0_0    defaults
+typing_extensions         4.0.0                     <pip>
+urllib3                   1.26.7             pyhd3eb1b0_0    defaults
+wheel                     0.37.0             pyhd3eb1b0_1    defaults
+xz                        5.2.5                h7b6447c_0    defaults
+zlib                      1.2.11               h7b6447c_3    defaults
